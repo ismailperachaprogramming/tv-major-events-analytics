@@ -1,7 +1,7 @@
 # TV Major Narrative Events – Rating Impact Analysis
 
 ## Overview
-This project analyzes whether major narrative events in television episodes — such as character deaths, cast exits, premieres, and finales — correlate with higher audience ratings.  
+This project analyzes whether major narrative events in television episodes, such as character deaths, cast exits, premieres, and finales, correlate with higher audience ratings.  
 
 Using a structured episode-level dataset, this analysis applies statistical testing and visualization techniques to determine whether pivotal storytelling moments influence viewer reception.
 
